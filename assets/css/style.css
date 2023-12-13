@@ -500,7 +500,14 @@ section .container {
   height: 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 100px 0;
+  padding: 90px 0;
+}
+
+@media (max-width: 576px) {
+  .skills-content {
+    padding: 70px 0;
+  }
+
 }
 
   .adham-skills-slider .swiper-slider img {
