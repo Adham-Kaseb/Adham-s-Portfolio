@@ -294,13 +294,10 @@ h6 {
   top: 15px;
 }
 
-@media (max-width: 768px) {
-  .mobile-nav-toggle {
-    display: block;
-  }
+@media (max-width: 400px) {
 
-  .navbar ul {
-    display: none;
+  .navbar ul li a {
+    font-size: 10px;
   }
 }
 
