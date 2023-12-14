@@ -887,9 +887,18 @@ section .container {
 }
 
 .contact .info-box .social-links {
-  margin: 5px 0 0 68px;
+  margin: 5px 0 0 50px;
   display: flex;
 }
+
+.contact .info-box .social-links-selected {
+  display: flex;
+  justify-content: start;
+  align-items: end;
+  gap: 10px;
+  width: 100%;
+  height: 70px;
+} 
 
 .contact .info-box .social-links a {
   font-size: 18px;
