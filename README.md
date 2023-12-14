@@ -1,16 +1,17 @@
+<div align="center" width=""100%>
+  <img width="500" src="https://github.com/Adham-Kaseb/Adham-s-Portfolio/blob/main/Welcome%20to%20my%20Portfolio.gif" align="center" />
+</div>
 
-## 🛠 Skills
-Javascript, HTML, CSS, Bootstrap...
-
-
-## Vendors
-
+## 🛠 Skills & Vendors
+- Javascript
+-  HTML
+-  CSS
+-  Bootstrap...
+-----------
 - Swiper.js
 - isotope
 - Glighbox
 - pureCounter
-
-
 
 ## Related
 
