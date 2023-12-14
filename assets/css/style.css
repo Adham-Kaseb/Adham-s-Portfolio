@@ -9,7 +9,7 @@
   width: 8px;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #000;
+  background-color: #ed950c;
 }
 ::-webkit-scrollbar-track {
   background-color: #000;
@@ -161,6 +161,7 @@ h6 {
   top: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.9);
+  overflow: hidden;
 }
 
 #header.header-top .social-links,
@@ -204,6 +205,7 @@ h6 {
 .navbar {
   padding: 0;
   margin-top: 35px;
+
 }
 
 .navbar ul {
@@ -216,6 +218,7 @@ h6 {
   padding: 20px;
   background-color: rgba(0, 0, 0, 0.33);
   cursor: pointer;
+
 }
 
 @media (min-width: 767px) {
@@ -295,11 +298,17 @@ h6 {
 }
 
 @media (max-width: 400px) {
-
   .navbar ul li a {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
+
+@media (max-width: 991px) {
+  .adham {
+    display: none !important;
+  }
+}
+
 
 .navbar-mobile {
   position: fixed;
@@ -331,6 +340,7 @@ h6 {
   overflow-y: auto;
   transition: 0.3s;
   border: 2px solid rgba(255, 255, 255, 0.2);
+
 }
 
 .navbar-mobile li {
