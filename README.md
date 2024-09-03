@@ -2,7 +2,7 @@
   <img width="500" src="https://github.com/Adham-Kaseb/Adham-s-Portfolio/blob/main/Welcome%20to%20my%20Portfolio.gif" align="center" />
 </div>
 
-## 🛠 Techs & Vendors
+## 🛠 Skills & Vendors
 - Javascript
 -  HTML
 -  CSS
